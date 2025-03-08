@@ -24,7 +24,7 @@ Contact : Formulaire pour me contacter directement.
 
 ![alt text](images/image-1.png)
 
-###Version Telephone: 
+### Version Telephone: 
 
 ![alt text](images/image-3.png)
 
