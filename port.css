@@ -417,49 +417,6 @@ section{
     color: white;
 }
 
-/* Work */
-
-.work{
-    background-color: #000016;
-}
-
-.work .content{
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    margin-top: 20px;
-}
-
-.work .content .card{
-    width: 340px;
-    margin: 15px;
-}
-
-.work .content .card .card-img{
-    position: relative;
-    width: 100%;
-    height: 260px;
-    overflow: hidden;
-    border-radius: 10px;
-}
-
-.work .content .card .card-img img{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    border-radius: 10px;
-    transition: 0.3s linear;
-}
-
-.work .content .card .card-img img:hover{
-    transform: scale(1.2);
-}
-
-
 /* Contact */
 .contact{
     background-color: white(208, 208, 208);
@@ -573,33 +530,6 @@ section{
   .contact-form .input-box .send-btn:hover{
     background: #235bf6;
   }
-
-  /* Footer */
-  
-  .footer{
-    background: #000016;
-    color: #fff;
-    text-align: center;
-    padding: 2em;
-  }
-  
-  .footer .footer-title{
-    font-size: 20px;
-    font-weight: 600;
-  }
-  
-  .footer p{
-    font-size: 16px;
-    margin-top: 10px;
-  }
-  
-  .footer p a{
-    color: #3a6cf4;
-    font-weight: 600;
-    text-decoration: none;
-  }
-  
-
 
 @media (max-width:1040px) {
     
